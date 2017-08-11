@@ -1,0 +1,57 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\work\GameDev\CitySim\CitySim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\work\GameDev\CitySim\CitySim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\work\GameDev\CitySim\CitySim_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.801313 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at ListMapScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 326c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'AboutController') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.088115 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.249982 ms (FindLiveObjects: 0.032531 ms CreateObjectMapping: 0.032960 ms MarkObjects: 0.173789 ms  DeleteObjects: 0.004280 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ListMapScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.654063 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.800885 ms (FindLiveObjects: 0.062067 ms CreateObjectMapping: 0.036384 ms MarkObjects: 0.680602 ms  DeleteObjects: 0.020118 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ListMapScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
